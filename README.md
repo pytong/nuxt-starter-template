@@ -1,8 +1,12 @@
 #Startup Folder
 
-#####Flexible Grid System 1.1.0
+#####Flexible Grid System 2.0.0
 - Website · [http://flexible.gs](http://flexible.gs)
 - Github · [https://github.com/flexiblegs/flexible.gs](https://github.com/flexiblegs/flexible.gs)
+
+#####GuideGuide
+- Website · [http://guideguide.me](http://guideguide.me)
+- Github · [https://github.com/guideguide](https://github.com/guideguide)
 
 #####Normalize.css 3.0.1
 - Website · [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
