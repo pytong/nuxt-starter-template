@@ -2,7 +2,7 @@
 
 #####Flexible Grid System 2.2.0
 - Website · [http://flexible.gs](http://flexible.gs)
-- Github · [https://github.com/flexiblegs/flexible.gs](https://github.com/flexiblegs/flexible.gs)
+- Github · [https://github.com/flexiblegs/flexiblegs](https://github.com/flexiblegs/flexiblegs)
 
 #####GuideGuide
 - Website · [http://guideguide.me](http://guideguide.me)
