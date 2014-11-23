@@ -8,7 +8,7 @@
 - Website · [http://guideguide.me](http://guideguide.me)
 - Github · [https://github.com/guideguide](https://github.com/guideguide)
 
-#####Normalize.css 3.0.1
+#####Normalize.css 3.0.2
 - Website · [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
 - Github · [https://github.com/necolas/normalize.css/](https://github.com/necolas/normalize.css/)
 
