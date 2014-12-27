@@ -1,6 +1,6 @@
 #Startup Folder
 
-#####Flexible Grid System 2.3.5
+#####Flexible Grid System 2.3.6
 - Website · [http://flexible.gs](http://flexible.gs)
 - Github · [https://github.com/flexiblegs/flexiblegs](https://github.com/flexiblegs/flexiblegs)
 
