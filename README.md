@@ -1,16 +1,8 @@
 #Startup Folder
 
-#####Less.js 2.1.0
-- Website · [http://lesscss.org](http://lesscss.org)
-- Github · [https://github.com/less/less.js](https://github.com/less/less.js)
-
 #####Flexible Grid System 2.3.6
 - Website · [http://flexible.gs](http://flexible.gs)
 - Github · [https://github.com/flexiblegs/flexiblegs](https://github.com/flexiblegs/flexiblegs)
-
-#####GuideGuide
-- Website · [http://guideguide.me](http://guideguide.me)
-- Github · [https://github.com/guideguide](https://github.com/guideguide)
 
 #####Normalize.css 3.0.2
 - Website · [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
@@ -31,9 +23,13 @@
 - Website · [https://www.google.com/fonts](https://www.google.com/fonts)
 - Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
 
+#####Less.js 2.1.0
+- Website · [http://lesscss.org](http://lesscss.org)
+- Github · [https://github.com/less/less.js](https://github.com/less/less.js)
+
 #####jQuery 1.11.1
 - Website · [http://jquery.com](http://jquery.com)
 - Github · [https://github.com/jquery/jquery](https://github.com/jquery/jquery)
 
 ##Feedback
-If you find bugs please open a ticket at [https://github.com/flexiblegs/startup-folder/issues](https://github.com/flexiblegs/startup-folder/issues)
+If you find bugs please open a ticket at [https://github.com/dnomak/startup-folder/issues](https://github.com/dnomak/startup-folder/issues)
