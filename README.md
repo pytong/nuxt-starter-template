@@ -1,6 +1,6 @@
 #Startup Folder
 
-#####Flexible Grid System 2.3.6
+#####Flexible Grid System 2.4.1
 - Website · [http://flexible.gs](http://flexible.gs)
 - Github · [https://github.com/flexiblegs/flexiblegs](https://github.com/flexiblegs/flexiblegs)
 
@@ -22,10 +22,6 @@
 #####Google Font
 - Website · [https://www.google.com/fonts](https://www.google.com/fonts)
 - Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
-
-#####Less.js 2.1.0
-- Website · [http://lesscss.org](http://lesscss.org)
-- Github · [https://github.com/less/less.js](https://github.com/less/less.js)
 
 #####jQuery 1.11.1
 - Website · [http://jquery.com](http://jquery.com)
