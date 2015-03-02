@@ -12,7 +12,7 @@
 - Website · [http://fortawesome.github.io/Font-Awesome/](http://fortawesome.github.io/Font-Awesome/)
 - Github · [https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 
-#####Animate.css 3.2.0
+#####Animate.css 3.2.1
 - Website · [http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/)
 - Github · [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
 
@@ -21,7 +21,7 @@
 
 #####Google Font
 - Website · [https://www.google.com/fonts](https://www.google.com/fonts)
-- Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
+  - Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
 
 #####jQuery 1.11.1
 - Website · [http://jquery.com](http://jquery.com)
