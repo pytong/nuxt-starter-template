@@ -1,14 +1,14 @@
-/*! flexiblegs.layout.css */
+/*! Flexible Grid System Layout | CSS | MIT License | flexible.gs */
 
 /* xl */
 
-  /* your style */
+  /* Your Style */
 
 /* lg */
 
   @media (max-width: 1024px) {
 
-    /* your style */
+    /* Your Style */
 
   }
 
@@ -16,7 +16,7 @@
 
   @media (max-width: 768px) {
 
-    /* your style */
+    /* Your Style */
 
   }
 
@@ -24,7 +24,7 @@
 
   @media (max-width: 667px) {
 
-    /* your style */
+    /* Your Style */
 
   }
 
@@ -32,6 +32,6 @@
 
   @media (max-width: 414px) {
 
-    /* your style */
+    /* Your Style */
 
   }
