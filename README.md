@@ -4,7 +4,7 @@
 - Website · [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
 - Github · [https://github.com/necolas/normalize.css/](https://github.com/necolas/normalize.css/)
 
-#####Flexible Grid System 3.0.4
+#####Flexible Grid System 3.0.5
 - Website · [http://flexible.gs/](http://flexible.gs/)
 - Github · [https://github.com/flexiblegs/flexiblegs/](https://github.com/flexiblegs/flexiblegs/)
 
