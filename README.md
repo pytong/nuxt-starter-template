@@ -24,9 +24,13 @@
 - Website · [http://jquery.com/](http://jquery.com/)
 - Github · [https://github.com/jquery/jquery/](https://github.com/jquery/jquery/)
 
-#####jQuery Validation 1.13.1
+#####Validation 1.13.1
 - Website · [http://jqueryvalidation.org/](http://jqueryvalidation.org/)
 - Github · [https://github.com/jzaefferer/jquery-validation/](https://github.com/jzaefferer/jquery-validation/)
+
+#####Cookie 1.4.1
+- Website · [https://github.com/carhartl/jquery-cookie/blob/master/README.md/](https://github.com/carhartl/jquery-cookie/blob/master/README.md/)
+- Github · [https://github.com/carhartl/jquery-cookie/](https://github.com/carhartl/jquery-cookie/)
 
 #####Fancybox 2.1.5
 - Website · [http://fancyapps.com/fancybox/](http://fancyapps.com/fancybox/)
