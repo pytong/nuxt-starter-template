@@ -28,5 +28,9 @@
 - Website · [http://jqueryvalidation.org/](http://jqueryvalidation.org/)
 - Github · [https://github.com/jzaefferer/jquery-validation/](https://github.com/jzaefferer/jquery-validation/)
 
+#####Fancybox 2.1.5
+- Website · [http://fancyapps.com/fancybox/](http://fancyapps.com/fancybox/)
+- Github · [https://github.com/fancyapps/fancyBox/](https://github.com/fancyapps/fancyBox/)
+
 ##Feedback
 If you find bugs please open a ticket at [https://github.com/dnomak/startup-folder/issues/](https://github.com/dnomak/startup-folder/issues/)

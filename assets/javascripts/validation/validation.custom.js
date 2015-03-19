@@ -1,4 +1,4 @@
-// <form id="login" action="index.html"  method="post">
+// <form id="login" action="index.html" method="post">
 //   Username <br/>
 //   <input type="text" name="username"> <br/>
 //   Password <br/>
@@ -6,7 +6,7 @@
 //   <button type="submit" name="submit">Submit</button>
 // </form>
 
-// function login_validate() {
+// function validation() {
 //   $("#login").validate({
 //     rules: {
 //       username: {
