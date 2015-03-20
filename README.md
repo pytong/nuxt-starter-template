@@ -39,15 +39,20 @@
 - Github · [https://github.com/jzaefferer/jquery-validation](https://github.com/jzaefferer/jquery-validation)
 - License · [https://github.com/jzaefferer/jquery-validation#license](https://github.com/jzaefferer/jquery-validation#license)
 
+#####Fancybox 2.1.5
+- Website · [http://fancyapps.com/fancybox](http://fancyapps.com/fancybox)
+- Github · [https://github.com/fancyapps/fancyBox](https://github.com/fancyapps/fancyBox)
+- License · [http://www.fancyapps.com/fancybox/#license](http://www.fancyapps.com/fancybox/#license)
+
 #####Cookie 1.4.1
 - Website · [https://github.com/carhartl/jquery-cookie/blob/master/README.md](https://github.com/carhartl/jquery-cookie/blob/master/README.md)
 - Github · [https://github.com/carhartl/jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - License · [https://github.com/carhartl/jquery-cookie/blob/master/MIT-LICENSE.txt](https://github.com/carhartl/jquery-cookie/blob/master/MIT-LICENSE.txt)
 
-#####Fancybox 2.1.5
-- Website · [http://fancyapps.com/fancybox](http://fancyapps.com/fancybox)
-- Github · [https://github.com/fancyapps/fancyBox](https://github.com/fancyapps/fancyBox)
-- License · [http://www.fancyapps.com/fancybox/#license](http://www.fancyapps.com/fancybox/#license)
+#####Flickity 1.0.0
+- Website · [http://flickity.metafizzy.co](http://flickity.metafizzy.co)
+- Github · [https://github.com/metafizzy/flickity](https://github.com/metafizzy/flickity)
+- License · [http://flickity.metafizzy.co/license.html](http://flickity.metafizzy.co/license.html)
 
 #####Pajinate 0.4
 - Website · [https://dl.dropboxusercontent.com/u/4151695/html/pajinate/examples/example1.html](https://dl.dropboxusercontent.com/u/4151695/html/pajinate/examples/example1.html)
