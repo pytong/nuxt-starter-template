@@ -1,4 +1,4 @@
-#Startup Folder
+#Frontend Folder
 
 #####Normalize.css 3.0.2
 - Website · [http://necolas.github.io/normalize.css](http://necolas.github.io/normalize.css)
