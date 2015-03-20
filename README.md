@@ -49,5 +49,10 @@
 - Github · [https://github.com/fancyapps/fancyBox](https://github.com/fancyapps/fancyBox)
 - License · [http://www.fancyapps.com/fancybox/#license](http://www.fancyapps.com/fancybox/#license)
 
+#####Pajinate 0.4
+- Website · [https://dl.dropboxusercontent.com/u/4151695/html/pajinate/examples/example1.html](https://dl.dropboxusercontent.com/u/4151695/html/pajinate/examples/example1.html)
+- Github · [https://github.com/wesnolte/Pajinate](https://github.com/wesnolte/Pajinate)
+- License · [https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt](https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt)
+
 ##Feedback
 If you find bugs please open a ticket at [https://github.com/dnomak/startup-folder/issues](https://github.com/dnomak/startup-folder/issues)

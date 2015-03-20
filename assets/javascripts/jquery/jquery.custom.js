@@ -12,4 +12,8 @@ $(document).ready(function () {
   // (assets/javascripts/fancybox/fancybox.custom.js)
   // fancybox();
 
+  // Pajinate 0.4
+  // (assets/javascripts/pajinate/pajinate.custom.js)
+  // pajinate();
+
 });
