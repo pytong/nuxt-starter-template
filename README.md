@@ -10,14 +10,14 @@
 - Github · [https://github.com/flexiblegs/flexiblegs](https://github.com/flexiblegs/flexiblegs)
 - License · [https://github.com/flexiblegs/flexiblegs/blob/master/LICENCE](https://github.com/flexiblegs/flexiblegs/blob/master/LICENCE)
 
-#####Google Font
-- Website · [https://www.google.com/fonts](https://www.google.com/fonts)
-  - Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
-
 #####Flexible Grid System Breakpoints
 - Website · [http://flexible.gs](http://flexible.gs)
 - Github · [https://github.com/flexiblegs/breakpoints](https://github.com/flexiblegs/breakpoints)
 - License · [https://github.com/flexiblegs/breakpoints/blob/master/LICENCE](https://github.com/flexiblegs/breakpoints/blob/master/LICENCE)
+
+#####Google Font
+- Website · [https://www.google.com/fonts](https://www.google.com/fonts)
+  - Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
 
 #####Font Awesome 4.3.0
 - Website · [http://fortawesome.github.io/Font-Awesome](http://fortawesome.github.io/Font-Awesome)
