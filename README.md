@@ -60,4 +60,4 @@
 - License · [https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt](https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt)
 
 ## Feedback
-If you find bugs please open a ticket at [https://github.com/dnomak/startup-folder/issues](https://github.com/dnomak/startup-folder/issues)
+If you find bugs please open a ticket at [https://github.com/dnomak/frontend-folder/issues](https://github.com/dnomak/frontend-folder/issues)
