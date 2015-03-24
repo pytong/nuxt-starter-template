@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).on("ready", function () {
 
   // jQuery Validation 1.13.1
   // (assets/javascripts/validation/validation.custom.js)
