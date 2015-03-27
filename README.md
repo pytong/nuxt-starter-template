@@ -5,15 +5,15 @@
 - GitHub · [https://github.com/necolas/normalize.css](https://github.com/necolas/normalize.css)
 - License · [https://github.com/necolas/normalize.css/blob/master/LICENSE.md](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
 
-##### Flexible Grid System 4.0.0
+##### Flexible Grid System 4.0.0 (CSS)
 - Website · [http://flexible.gs](http://flexible.gs)
 - GitHub · [https://github.com/flexiblegs/flexiblegs](https://github.com/flexiblegs/flexiblegs)
 - License · [https://github.com/flexiblegs/flexiblegs/blob/master/LICENCE](https://github.com/flexiblegs/flexiblegs/blob/master/LICENCE)
 
-##### Flexible Grid System Breakpoints
+##### Flexible Grid System Styles, Breakpoints and Tools (CSS)
 - Website · [http://flexible.gs](http://flexible.gs)
-- GitHub · [https://github.com/flexiblegs/breakpoints](https://github.com/flexiblegs/breakpoints)
-- License · [https://github.com/flexiblegs/breakpoints/blob/master/LICENCE](https://github.com/flexiblegs/breakpoints/blob/master/LICENCE)
+- GitHub · [https://github.com/flexiblegs/styles](https://github.com/flexiblegs/styles)
+- License · [https://github.com/flexiblegs/styles/blob/master/LICENCE](https://github.com/flexiblegs/styles/blob/master/LICENCE)
 
 ##### Google Font
 - Website · [https://www.google.com/fonts](https://www.google.com/fonts)

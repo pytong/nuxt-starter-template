@@ -1,0 +1,246 @@
+/*! Flexible Grid System Styles, Breakpoints and Tools | CSS | MIT License | flexible.gs */
+
+/* xl */
+
+  /* wrapper */
+
+    *, *:before, *:after {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    html {
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      font-size: 14px;
+    }
+    body {
+      background: #fff;
+    }
+    .wrapper {
+      overflow: hidden;
+    }
+    .wrapper-inner {
+
+    }
+    .container {
+      max-width: 1140px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+  /* typography */
+
+    h1, h2, h3, h3, h4, h5, h6,
+    .h1, .h2, .h3, .h3, .h4, .h5, .h6 {
+      display: block;
+      margin: 0;
+      padding: 0;
+      font-weight: normal;
+    }
+    a {
+      display: inline-block;
+      color: #222;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #a1a1a1;
+      text-decoration: none;
+    }
+    ul {
+      margin-top: 0;
+      margin-bottom: 0;
+      list-style-type: none;
+      padding-left: 0;
+      list-style-position: inside;
+    }
+    ul.disc {
+      list-style-type: disc;
+    }
+    table {
+      width: 100%;
+      max-width: 100%;
+    }
+    th,
+    td {
+      padding: 5px 10px;
+      border: 1px solid #a1a1a1;
+    }
+    td {
+      vertical-align: top;
+    }
+    tr:nth-child(even) {
+      background-color: #e8e8e8;
+    }
+
+  /* form */
+
+    input, select, textarea, button {
+      width: 100%;
+      display: block;
+      outline: none;
+      color: #fff;
+      background: #fff;
+      border: 1px solid #a1a1a1;
+      padding: 5px 10px;
+      margin: 0;
+    }
+    select, label, input[type=radio], input[type=radio] {
+      cursor: pointer;
+    }
+    input:focus, select:focus, textarea:focus {
+      border: 1px solid #222;
+    }
+    select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+    }
+    ::-webkit-input-placeholder {
+       color: #a1a1a1;
+    }
+    :-moz-placeholder {
+       color: #a1a1a1;
+    }
+    ::-moz-placeholder {
+       color: #a1a1a1;
+    }
+    :-ms-input-placeholder {
+       color: #a1a1a1;
+    }
+    input[type=submit], button {
+      border: 0;
+      background: #222;
+      color: #fff;
+    }
+
+  /* header */
+
+    .header {
+
+    }
+    .header-inner {
+
+    }
+
+  /* content */
+
+    .content {
+
+    }
+    .content-inner {
+
+    }
+
+    /* aside */
+
+      aside {
+
+      }
+      aside ul li a {
+
+      }
+
+    /* article */
+
+      article {
+
+      }
+      article p {
+
+      }
+      article span {
+
+      }
+
+  /* footer */
+
+    .footer {
+
+    }
+    .footer-inner {
+
+    }
+
+  /* tools */
+
+    .text-center-xl {
+      text-align: center;
+    }
+    .text-left-xl {
+      text-align: left;
+    }
+    .text-right-xl {
+      text-align: right;
+    }
+
+/* lg */
+
+  @media (max-width: 1024px) {
+
+    /* tools */
+
+      .text-center-lg {
+        text-align: center;
+      }
+      .text-left-lg {
+        text-align: left;
+      }
+      .text-right-lg {
+        text-align: right;
+      }
+
+  }
+
+/* md */
+
+  @media (max-width: 768px) {
+
+    /* tools */
+
+      .text-center-md {
+        text-align: center;
+      }
+      .text-left-md {
+        text-align: left;
+      }
+      .text-right-md {
+        text-align: right;
+      }
+
+  }
+
+/* sm */
+
+  @media (max-width: 667px) {
+
+    /* tools */
+
+      .text-center-sm {
+        text-align: center;
+      }
+      .text-left-sm {
+        text-align: left;
+      }
+      .text-right-sm {
+        text-align: right;
+      }
+
+  }
+
+/* xs */
+
+  @media (max-width: 414px) {
+
+    /* tools */
+
+      .text-center-xs {
+        text-align: center;
+      }
+      .text-left-xs {
+        text-align: left;
+      }
+      .text-right-xs {
+        text-align: right;
+      }
+
+  }
