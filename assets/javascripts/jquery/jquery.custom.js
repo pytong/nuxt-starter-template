@@ -20,4 +20,8 @@ $(document).on("ready", function () {
   // (assets/javascripts/pajinate/pajinate.custom.js)
   // pajinate();
 
+  // Marquee 1.3.2
+  // (assets/javascripts/marquee/marquee.custom.js)
+  // marquee();
+
 });

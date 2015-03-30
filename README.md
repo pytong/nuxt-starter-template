@@ -59,5 +59,9 @@
 - GitHub · [https://github.com/wesnolte/Pajinate](https://github.com/wesnolte/Pajinate)
 - License · [https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt](https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt)
 
+##### Marquee 1.3.2
+- Website · [http://aamirafridi.com/jquery/jquery-marquee-plugin](http://aamirafridi.com/jquery/jquery-marquee-plugin)
+- GitHub · [https://github.com/aamirafridi/jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee)
+
 ## Feedback
 If you find bugs please open a ticket at [https://github.com/dnomak/frontend-folder/issues](https://github.com/dnomak/frontend-folder/issues)
