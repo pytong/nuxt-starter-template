@@ -18,13 +18,14 @@
 ##### Google Font
 - Website · [https://www.google.com/fonts](https://www.google.com/fonts)
   - Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
+- GitHub · [https://github.com/google/fonts](https://github.com/google/fonts)
 
 ##### Font Awesome 4.3.0
 - Website · [http://fortawesome.github.io/Font-Awesome](http://fortawesome.github.io/Font-Awesome)
 - GitHub · [https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - License · [http://fontawesome.io/license](http://fontawesome.io/license)
 
-##### Animate.css 3.2.1
+##### Animate.css 3.2.6
 - Website · [http://daneden.github.io/animate.css](http://daneden.github.io/animate.css)
 - GitHub · [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
 - License · [https://github.com/daneden/animate.css/#license](https://github.com/daneden/animate.css/#license)
