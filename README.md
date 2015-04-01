@@ -1,6 +1,6 @@
 # Frontend Folder
 
-##### Normalize.css 3.0.2
+##### Normalize.css 3.0.3
 - Website · [http://necolas.github.io/normalize.css](http://necolas.github.io/normalize.css)
 - GitHub · [https://github.com/necolas/normalize.css](https://github.com/necolas/normalize.css)
 - License · [https://github.com/necolas/normalize.css/blob/master/LICENSE.md](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
