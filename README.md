@@ -54,7 +54,7 @@
 - GitHub · [https://github.com/metafizzy/flickity](https://github.com/metafizzy/flickity)
 - License · [http://flickity.metafizzy.co/license.html](http://flickity.metafizzy.co/license.html)
 
-##### Pajinate 0.4
+##### Pajinate 0.4.0
 - Website · [https://dl.dropboxusercontent.com/u/4151695/html/pajinate/examples/example1.html](https://dl.dropboxusercontent.com/u/4151695/html/pajinate/examples/example1.html)
 - GitHub · [https://github.com/wesnolte/Pajinate](https://github.com/wesnolte/Pajinate)
 - License · [https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt](https://github.com/wesnolte/Pajinate/blob/master/LICENSE.txt)
@@ -62,6 +62,11 @@
 ##### Marquee 1.3.2
 - Website · [http://aamirafridi.com/jquery/jquery-marquee-plugin](http://aamirafridi.com/jquery/jquery-marquee-plugin)
 - GitHub · [https://github.com/aamirafridi/jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee)
+
+##### Print This 1.5.0
+- Website · [https://github.com/jasonday/printThis](https://github.com/jasonday/printThis)
+- GitHub · [https://github.com/jasonday/printThis](https://github.com/jasonday/printThis)
+- License · [https://github.com/jasonday/printThis/blob/master/README#L25](https://github.com/jasonday/printThis/blob/master/README#L25)
 
 ## Feedback
 If you find bugs please open a ticket at [https://github.com/dnomak/frontend-folder/issues](https://github.com/dnomak/frontend-folder/issues)

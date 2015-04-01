@@ -16,12 +16,16 @@ $(document).on("ready", function () {
   // (assets/javascripts/flickity/flickity.custom.js)
   // flickity();
 
-  // Pajinate 0.4
+  // Pajinate 0.4.0
   // (assets/javascripts/pajinate/pajinate.custom.js)
   // pajinate();
 
   // Marquee 1.3.2
   // (assets/javascripts/marquee/marquee.custom.js)
   // marquee();
+
+  // Print This 1.5.0
+  // (assets/javascripts/printthis/printthis.custom.js)
+  // printthis();
 
 });
