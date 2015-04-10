@@ -69,5 +69,10 @@
 - GitHub · [https://github.com/jasonday/printThis](https://github.com/jasonday/printThis)
 - License · [https://github.com/jasonday/printThis/blob/master/README#L25](https://github.com/jasonday/printThis/blob/master/README#L25)
 
+##### Waypoints 3.1.1
+- Website · [http://imakewebthings.com/waypoints](http://imakewebthings.com/waypoints)
+- GitHub · [https://github.com/imakewebthings/waypoints](https://github.com/imakewebthings/waypoints)
+- License · [https://github.com/imakewebthings/waypoints#license](https://github.com/imakewebthings/waypoints#license)
+
 ## Feedback
 If you find bugs please open a ticket at [https://github.com/dnomak/frontend-folder/issues](https://github.com/dnomak/frontend-folder/issues)

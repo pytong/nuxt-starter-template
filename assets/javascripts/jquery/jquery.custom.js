@@ -30,5 +30,9 @@
     // (assets/javascripts/printthis/printthis.custom.js)
     // printthis();
 
+    // Waypoints 3.1.1
+    // (assets/javascripts/waypoints/waypoints.custom.js)
+    // waypoints();
+
   // });
 // </script>
