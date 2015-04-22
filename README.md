@@ -5,12 +5,12 @@
 - GitHub · [https://github.com/necolas/normalize.css](https://github.com/necolas/normalize.css)
 - License · [https://github.com/necolas/normalize.css/blob/master/LICENSE.md](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
 
-##### Flexible Grid System 4 CSS
+##### Flexible Grid System 4 | CSS
 - Website · [http://flexible.gs](http://flexible.gs)
 - GitHub · [https://github.com/flexiblegs/flexiblegs](https://github.com/flexiblegs/flexiblegs)
 - License · [https://github.com/flexiblegs/flexiblegs/blob/master/LICENCE](https://github.com/flexiblegs/flexiblegs/blob/master/LICENCE)
 
-##### Flexible Grid System Styles CSS
+##### Flexible Grid System Styles | CSS
 - Website · [http://flexible.gs](http://flexible.gs)
 - GitHub · [https://github.com/flexiblegs/styles](https://github.com/flexiblegs/styles)
 - License · [https://github.com/flexiblegs/styles/blob/master/LICENCE](https://github.com/flexiblegs/styles/blob/master/LICENCE)
