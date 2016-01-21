@@ -1,0 +1,9 @@
+{
+  "name": "flexiblegs",
+  "version": "0.0.0",
+  "dependencies": {
+    "flexiblegs-scss": "~5.5.1",
+    "flexiblegs-scss-plus": "~5.5.1",
+    "flexiblecss-scss": "~0.2.0"
+  }
+}
