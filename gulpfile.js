@@ -14,7 +14,7 @@ var tasks = {
       .pipe(sass({
         outputStyle: 'expanded'
       }))
-      .pipe(rename('application.css'))
+      .pipe(rename('rocket.css'))
       .pipe(gulp.dest('.'));
   }
 };
