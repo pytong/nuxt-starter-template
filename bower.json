@@ -1,9 +1,9 @@
 {
-  "name": "flexiblegs",
+  "name": "rocket",
   "version": "0.0.0",
   "dependencies": {
     "flexiblegs-scss": "~5.5.1",
     "flexiblegs-scss-plus": "~5.5.1",
-    "flexiblecss-scss": "~0.2.0"
+    "pixelperfectcss-scss": "~1.0.0"
   }
 }

@@ -1,7 +1,7 @@
-/*! Flexible Front End Framework 0.2.1 | Settings | Scss | MIT License | flexible.gs */
+/*! Pixel Perfect CSS 1.0.0 | Settings | Scss | MIT License | pixelperfectcss.com */
 
 // base
-$flexiblecss-base: (
+$pixelperfectcss-base: (
   "true"
 );
 
@@ -12,7 +12,7 @@ $property-font-family: (
 );
 
 // breakpoint
-$flexiblecss-breakpoint: (
+$pixelperfectcss-breakpoint: (
   "xl": "",
   "lg": "(max-width: 1024px)",
   "md": "(max-width: 768px)",
@@ -71,7 +71,6 @@ $selector-color: (
   "fo": "focus",
   "ac": "active",
   "pl": "placeholder",
-  "se": "selection",
 );
 
 // width
@@ -163,7 +162,8 @@ $selector-transform-translate: (
 $property-display: (
   "dn": "none",
   "db": "block",
-  "di": "inline-block",
+  "di": "inline",
+  "dib": "inline-block",
 );
 $selector-display: (
   "cl": "breakpoint-class",
@@ -401,6 +401,7 @@ $selector-white-space: (
 // word-break
 $property-word-break: (
   "wbbw": "break-word",
+  "wbba": "break-all",
 );
 $selector-word-break: (
   "cl": "not-breakpoint-class",
@@ -422,6 +423,7 @@ $selector-cursor: (
 $property-user-select: (
   "usn": "none",
   "ust": "text",
+  "usa": "all",
 );
 $selector-user-select: (
   "cl": "not-breakpoint-class",
