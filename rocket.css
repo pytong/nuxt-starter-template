@@ -6773,44 +6773,16 @@ input[type="checkbox"] {
   width: 128px;
 }
 
-.xl-w1280 {
-  width: 1280px;
-}
-
-.xl-maw1280 {
-  max-width: 1280px;
-}
-
-.xl-miw1280 {
-  min-width: 1280px;
-}
-
 .xl-lh0 {
   line-height: 0px;
 }
 
-.xl-lh12 {
-  line-height: 12px;
-}
-
-.xl-lh14 {
-  line-height: 14px;
+.xl-lh8 {
+  line-height: 8px;
 }
 
 .xl-lh16 {
   line-height: 16px;
-}
-
-.xl-lh18 {
-  line-height: 18px;
-}
-
-.xl-lh20 {
-  line-height: 20px;
-}
-
-.xl-lh22 {
-  line-height: 22px;
 }
 
 .xl-lh24 {
@@ -6843,46 +6815,6 @@ input[type="checkbox"] {
 
 .xl-h128 {
   height: 128px;
-}
-
-.xl-mah0 {
-  max-height: 0px;
-}
-
-.xl-mah8 {
-  max-height: 8px;
-}
-
-.xl-mah16 {
-  max-height: 16px;
-}
-
-.xl-mah24 {
-  max-height: 24px;
-}
-
-.xl-mah40 {
-  max-height: 40px;
-}
-
-.xl-mih0 {
-  min-height: 0px;
-}
-
-.xl-mih8 {
-  min-height: 8px;
-}
-
-.xl-mih16 {
-  min-height: 16px;
-}
-
-.xl-mih24 {
-  min-height: 24px;
-}
-
-.xl-mih40 {
-  min-height: 40px;
 }
 
 .xl-ma {
@@ -7206,12 +7138,28 @@ input[type="checkbox"] {
   overflow: scroll;
 }
 
+.xl-o0 {
+  opacity: 0;
+}
+
 .xl-o50 {
   opacity: 0.50;
 }
 
+.xl-o100 {
+  opacity: 1;
+}
+
+.ho-o0:hover {
+  opacity: 0;
+}
+
 .ho-o50:hover {
   opacity: 0.50;
+}
+
+.ho-o100:hover {
+  opacity: 1;
 }
 
 .xl-fs0 {
@@ -7244,6 +7192,18 @@ input[type="checkbox"] {
 
 .xl-fs24 {
   font-size: 24px;
+}
+
+.xl-fs26 {
+  font-size: 26px;
+}
+
+.xl-fs28 {
+  font-size: 28px;
+}
+
+.xl-fs30 {
+  font-size: 30px;
 }
 
 .xl-fs32 {
