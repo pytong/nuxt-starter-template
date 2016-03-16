@@ -4,6 +4,6 @@
   "dependencies": {
     "flexiblegs-scss": "~5.5.1",
     "flexiblegs-scss-plus": "~5.5.1",
-    "pixelperfectcss-scss": "~1.0.0"
+    "pixelperfectcss-scss": "~1.0.1"
   }
 }
