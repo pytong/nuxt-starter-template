@@ -21,7 +21,7 @@
   border-style: solid;
 }
 body {
-
+  font-family: Open Sans;
 }
 p {
   margin-top: 0;
@@ -58,4 +58,20 @@ input[type="checkbox"] {
 }
 [placeholder]:empty:before {
   content: attr(placeholder);
+}
+[class*="icon-"] {
+  display: inline-block;
+}
+[class*="icon-"]:before {
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  font-size: 56px;
+  height: 1em;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  vertical-align: middle;
 }

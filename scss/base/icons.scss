@@ -1,15 +1,56 @@
-// Icons
+@font-face {
+	font-family: "app-icons";
+	src: url('../fonts/app-icons.eot');
+	src: url('../fonts/app-icons.eot?#iefix') format('eot'),
+		url('../fonts/app-icons.woff2') format('woff2'),
+		url('../fonts/app-icons.woff') format('woff'),
+		url('../fonts/app-icons.ttf') format('truetype'),
+		url('../fonts/app-icons.svg#app-icons') format('svg');
+}
 
-.material-icons {
-  font-family: 'Material Icons';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 24px;
-  display: inline-block;
-  text-transform: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  white-space: nowrap;
-  direction: ltr;
-  vertical-align: middle;
+@mixin icon-styles {
+	font-family: "app-icons";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	// speak: none; // only necessary if not using the private unicode range (firstGlyph option)
+	text-decoration: none;
+	text-transform: none;
+}
+
+%icon {
+	@include icon-styles;
+}
+
+@function icon-char($filename) {
+	$char: "";
+
+	@if $filename == apple {
+		$char: "\E001";
+	}
+	@if $filename == flexiblegs {
+		$char: "\E002";
+	}
+
+	@return $char;
+}
+
+@mixin icon($filename, $insert: before, $extend: true) {
+	&:#{$insert} {
+		@if $extend {
+			@extend %icon;
+		} @else {
+			@include icon-styles;
+		}
+		content: icon-char($filename);
+	}
+}
+
+.icon-apple {
+	@include icon(apple);
+}
+.icon-flexiblegs {
+	@include icon(flexiblegs);
 }

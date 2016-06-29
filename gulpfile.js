@@ -11,6 +11,8 @@ var uglify = require('gulp-uglify');
 var buffer = require('vinyl-buffer');
 
 var sass = require('gulp-sass');
+var iconfont = require('gulp-iconfont');
+var iconfontcss = require('gulp-iconfont-css');
 var rename = require('gulp-rename');
 var notify = require('gulp-notify');
 var browserSync = require('browser-sync');
@@ -46,9 +48,24 @@ gulp.task('scss',function() {
     .pipe(reload({stream:true}))
 });
 
+gulp.task('iconfont', function() {
+  gulp.src(['icons/*.svg'])
+    .pipe(iconfontcss({
+      path: 'scss',
+      fontName: 'app-icons',
+      targetPath: '../scss/base/icons.scss',
+      fontPath: '../fonts/'
+    }))
+    .pipe(iconfont({
+      fontName: 'app-icons',
+      normalize: true
+     }))
+    .pipe(gulp.dest('fonts'));
+});
+
 function buildScript(file, watch) {
   var props = {
-    entries: ['./scripts/' + file],
+    entries: ['./app/' + file],
     debug : true,
     transform:  [babelify.configure({stage : 0 })]
   };
@@ -74,11 +91,11 @@ function buildScript(file, watch) {
   return rebundle();
 }
 
-gulp.task('scripts', function() {
+gulp.task('js', function() {
   return buildScript('app.js', false);
 });
 
-gulp.task('watch', ['browser-sync', 'scss', 'scripts'], function () {
+gulp.task('watch', ['browser-sync', 'scss', 'iconfont', 'js'], function () {
   gulp.watch('scss/**/*', ['scss']);
   return buildScript('app.js', true);
 });
