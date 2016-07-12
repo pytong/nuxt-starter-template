@@ -27,11 +27,8 @@
 @function icon-char($filename) {
 	$char: "";
 
-	@if $filename == apple {
-		$char: "\E001";
-	}
 	@if $filename == flexiblegs {
-		$char: "\E002";
+		$char: "\E001";
 	}
 
 	@return $char;
@@ -48,9 +45,6 @@
 	}
 }
 
-.icon-apple {
-	@include icon(apple);
-}
 .icon-flexiblegs {
 	@include icon(flexiblegs);
 }

@@ -1,8 +1,9 @@
 import React from "react";
 import ReactDOM from 'react-dom';
+import { Router, Route, Link, browserHistory } from 'react-router'
 
 var HelloMessage = React.createClass({
-  render: function() {
+  render() {
     return (
       <div className="xl-tac xl-p24 xl-m40 xl-ba-black-500 xl-co-white xl-br16">
         <em className="icon-flexiblegs xl-pr16"></em>
@@ -12,4 +13,36 @@ var HelloMessage = React.createClass({
   }
 });
 
-ReactDOM.render(<HelloMessage name="Flexible Grid System" />, document.querySelector('#app'));
+var Homepage = React.createClass({
+  render() {
+    return (
+      <HelloMessage name="Flexible Grid System" />
+    );
+  }
+});
+
+var Install = React.createClass({
+  render() {
+    return (
+      <HelloMessage name="Install" />
+    );
+  }
+});
+
+var NotFound = React.createClass({
+  render() {
+    return (
+      <HelloMessage name="Not Found" />
+    );
+  }
+});
+
+var routes = (
+  <Router history={browserHistory}>
+    <Route path="/" component={Homepage}/>
+    <Route path="/install" component={Install}/>
+    <Route path="*" component={NotFound}/>
+  </Router>
+)
+
+ReactDOM.render(routes, document.getElementById('app'));
