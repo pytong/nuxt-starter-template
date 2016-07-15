@@ -95,7 +95,7 @@ gulp.task('js', function() {
   return buildScript('app.js', false);
 });
 
-gulp.task('watch', ['browser-sync', 'scss', 'iconfont', 'js'], function () {
+gulp.task('watch', ['browser-sync', 'scss', 'js'], function () {
   gulp.watch('scss/**/*', ['scss']);
   return buildScript('app.js', true);
 });

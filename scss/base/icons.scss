@@ -27,8 +27,11 @@
 @function icon-char($filename) {
 	$char: "";
 
-	@if $filename == flexiblegs {
+	@if $filename == flexiblegs-logo-rounded {
 		$char: "\E001";
+	}
+	@if $filename == flexiblegs-logo {
+		$char: "\E002";
 	}
 
 	@return $char;
@@ -45,6 +48,9 @@
 	}
 }
 
-.icon-flexiblegs {
-	@include icon(flexiblegs);
+.icon-flexiblegs-logo-rounded {
+	@include icon(flexiblegs-logo-rounded);
+}
+.icon-flexiblegs-logo {
+	@include icon(flexiblegs-logo);
 }
